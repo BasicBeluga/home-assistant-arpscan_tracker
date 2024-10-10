@@ -1,12 +1,12 @@
 {
   "domain": "arpscan_tracker_2",
-  "name": "Arpscan tracker",
+  "name": "Arpscan tracker2",
   "version": "1.0.7",
-  "documentation": "https://github.com/cyberjunky/home-assistant-arpscan_tracker",
-  "issue_tracker": "https://github.com/cyberjunky/home-assistant-arpscan_tracker/issues",
+  "documentation": "https://github.com/BasicBeluga/home-assistant-arpscan_tracker",
+  "issue_tracker": "https://github.com/BasicBeluga/home-assistant-arpscan_tracker/issues",
   "requirements": [],
   "dependencies": [],
   "codeowners": [
-    "@cyberjunky"
+    "@BasicBeluga"
   ]
 }
